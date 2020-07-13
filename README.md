@@ -30,8 +30,8 @@ run the bat file with edits
 
  # Working
 
- ![location](Screenshots/loaction.json.jpg)
+ ![location](loaction.json.jpg)
 
- ![working](Screenshots/Working.jpg)
+ ![working](Working.jpg)
 
- ![output](Screenshots/output.jpg)
+ ![output](output.jpg)
